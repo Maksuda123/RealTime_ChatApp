@@ -4,7 +4,7 @@ Real Time Chat Application with Web socket.
 - Live Project Link: https://maksudamilas-chat-app.herokuapp.com/
 
 ### Features:
-- Real time chat with peple
+- Real time chat with people
 - People connect one or more room 
 - Location share 
 - Automatic Scrolling
